@@ -1,0 +1,5 @@
+a = input("Enter a number: ")
+b = input("Enter an another number: ")
+a = int(a)
+b = int(b)
+print(f"Sum is equal to: {a+b}")
