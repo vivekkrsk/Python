@@ -1,0 +1,6 @@
+a = input("Enter dividend: ")
+b = input("Enter divisor: ")
+a = int(a)
+b = int(b)
+print(f"Quotient is equal to: {a/b}")
+print(f"Remainder is equal to: {a%b}")
